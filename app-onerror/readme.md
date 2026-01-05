@@ -1,16 +1,18 @@
+https://youtu.be/8qcPq4peows?list=UUpWYds9d6QQ7gSe_RH3mazw
+
 # Read Me 
 
 To add this error "catch all" feature to your canvas Power Apps, follow these steps: 
 
-# 1 - Open the [[fxAppOnError.yaml]] file
+# 1 - Open the [fxapponerror.yaml](fxapponerror.yaml) file
 
 # 2 - Copy from this point:
 
-![Screenshot: Start-Code-Copy-From-Here](Start-Code-Copy-From-Here.png)
+![Screenshot: Start-Code-Copy-From-Here](start-code-copy-from-here.png)
 
 ## all the way down to this point...
 
-![Screenshot: End-Code-Copy-To-Here](End-Code-Copy-To-Here.png)
+![Screenshot: End-Code-Copy-To-Here](end-code-copy-to-here.png)
 
 # Or, you can import the [[fxAppOnError.yaml]] file into your environment and inspect and copy the code from there. 
 
